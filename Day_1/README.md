@@ -22,7 +22,7 @@ A beginner Python project that prints a personalized welcome message using `prin
   
 ## 📁 Files
 
-- `day1.py` – Main Python script to generate messages
+- `welcome_message_generator.py` – Main Python script to generate messages
 - `README.md` – Project overview and explanation
 
 ## 🚀 How to Run
