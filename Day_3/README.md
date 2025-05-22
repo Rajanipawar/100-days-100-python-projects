@@ -33,16 +33,3 @@ Run the file using:
 python Pizza_order.py.py
 
 
-📚 What I learned
-How to use the input() function
-Creating and using variables
-Formatting strings using f-strings
-📁 Files
-welcome_message_generator.py – Main Python script to generate messages
-README.md – Project overview and explanation
-🚀 How to Run
-Make sure Python is installed on your system.
-Clone this repository or download the script.
-Open your terminal or command prompt.
-Run the file using:
-python welcome_message_generator.py
