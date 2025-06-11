@@ -1,0 +1,23 @@
+Pancakes
+Ingredients : Flour, Milk, Eggs, Sugar
+Instructions : Mix the ingredients and try.
+
+Salad
+Ingredients: Lettuce, Tomato, Cucumber, Dressing
+Instructions: Chop ingredients and mix.
+
+Smoothie
+Ingredients: Banana, Milk, Honey
+Instructions: Blend all ingredients.
+
+Pasta Arrabiata
+Ingredients: Pasta, garlic, chili flakes, tomato sauce, olive oil, salt
+Instructions: Boil pasta. Sauté garlic and chili flakes. Add tomato sauce. Mix with pasta.
+
+Paneer Butter Masala
+Ingredients: Paneer, butter, tomato, cream, spices, ginger-garlic paste
+Instructions: Sauté paneer. Prepare a tomato-butter base with spices. Blend, cook and add paneer.
+
+Veg Fried Rice
+Ingredients: Rice, vegetables, soy sauce, garlic, oil
+Instructions: Stir-fry vegetables and garlic. Add cooked rice and soy sauce. Mix well and serve.
